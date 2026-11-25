@@ -1,1 +1,0 @@
-# stps-lab1-cicd
